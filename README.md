@@ -7,7 +7,7 @@ To set up this project, ensure you have Python installed on your system. No addi
 
 1. Clone the repository:
 
-   git clone [https://github.com/Musharraf94/AI_Graduate_Project.git]
+      git clone [https://github.com/Musharraf94/AI_Graduate_Project.git]
 2. Navigate to the cloned directory.
 
 # How to Run
