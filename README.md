@@ -7,6 +7,7 @@ Installation
 To set up this project, ensure you have Python installed on your system. No additional libraries are required outside of Python's standard library.
 
 1. Clone the repository:
+
    git clone [https://github.com/Musharraf94/AI_Graduate_Project.git]
 2. Navigate to the cloned directory.
 
