@@ -21,8 +21,11 @@ This will display the solutions found by each search algorithm for the N-Queens 
 
 # Features
 BFS and DFS: Deterministic algorithms that explore the chessboard systematically.
+
 Backtracking: An optimized DFS approach to find solutions more efficiently.
+
 Simulated Annealing: A probabilistic technique to explore various board configurations.
+
 Each algorithm has its unique approach and demonstrates different aspects of problem-solving in AI.
 
 # Acknowledgments
