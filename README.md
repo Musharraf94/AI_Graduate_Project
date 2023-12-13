@@ -26,4 +26,4 @@ Simulated Annealing: A probabilistic technique to explore various board configur
 Each algorithm has its unique approach and demonstrates different aspects of problem-solving in AI.
 
 # Acknowledgments
-This project was developed as part of Artificial Intelligence Course at the University of Arizona. Special thanks to Prof. Tyler Millhouse for guidance and support throughout the project.
+This project was developed as part of Artificial Intelligence Course at the University of Arizona. Special thanks to Professor Tyler Millhouse for guidance and support throughout the project.
