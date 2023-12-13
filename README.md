@@ -1,5 +1,4 @@
-# AI_Graduate_Project
-# N-Queens Problem Solver
+# Graduate_Project: N-Queens Problem Solving Algorithms
 # Introduction
 This project presents a Python-based solution to the classic N-Queens problem, where the goal is to place N queens on an N×N chessboard such that no two queens threaten each other. It includes implementations of various AI search algorithms, namely Breadth-First Search (BFS), Depth-First Search (DFS), Backtracking Search, and Simulated Annealing, to explore different approaches to solving the problem.
 
