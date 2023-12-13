@@ -1,8 +1,5 @@
 from problem import NQueens
 
-# def temperature_schedule(time):
-#     return 1.0 / (1 + 0.05 * time)
-
 def main():
     size = 8  # Change this to the size of the N-Queens problem you want to solve
     n_queens = NQueens(size)
